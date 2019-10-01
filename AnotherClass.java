@@ -1,4 +1,5 @@
 public class AnotherClass {
+	// геттеры
 	public static String getName() {
 		return "Name";
 	}
