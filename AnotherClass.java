@@ -1,5 +1,5 @@
 public class AnotherClass {
-	// getters
+	// геттеры
 	public static String getName() {
 		return "Name";
 	}
